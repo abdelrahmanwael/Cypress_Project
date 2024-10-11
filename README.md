@@ -1,5 +1,5 @@
 # Cypress_Project
-Preparation:
+# Preparation:
 A. Pre-requirements:
 1- Download and install latest nodejs through the below link
 https://nodejs.org/en/download
